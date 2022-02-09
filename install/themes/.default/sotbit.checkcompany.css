@@ -1,0 +1,35 @@
+#global_menu_kit .adm-main-menu-item-icon{
+    background: url("icons/kit/icon.png") no-repeat 50% 55%;
+}
+
+/*Menu icon*/
+#checkcompany_menu_icon {background-image:url(icons/kit.checkcompany/icon_menu.png);}
+#checkcompany_page_icon {background-image:url(icons/kit.checkcompany/icon_menu.png);}
+
+.checkcompany_menu_icon {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-image:url(icons/kit.checkcompany/icon_menu.png) !important;
+}
+.checkcompany_page_icon {
+    background-position:  center !important;
+    background-repeat: no-repeat !important;
+    background-image:url(icons/kit.checkcompany/icon_menu.png) !important;
+}
+.aDelete
+{
+    margin:5px;
+    text-decoration:underline;
+    cursor:pointer;
+    color:#2747BF;
+}
+.dAdded
+{
+    margin-top:10px;
+}
+
+/*fix style from script*/
+#party {
+    padding-left: 5px !important;
+    max-width: none !important;
+}
