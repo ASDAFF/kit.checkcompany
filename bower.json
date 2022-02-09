@@ -1,0 +1,13 @@
+{
+  "name": "kit.checkcompany",
+  "version": "1.0.8",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
